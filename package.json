@@ -1,0 +1,20 @@
+{
+	"name": "usecloudfsamplify-config",
+	"version": "1.0.0",
+	"description": "sample amplify config for usecloudfs",
+	"main": "index.js",
+	"scripts": {
+		"start": "echo hello",
+		"build": "echo hello"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/marinater/useCloudFSAmplify-Config.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/marinater/useCloudFSAmplify-Config/issues"
+	},
+	"homepage": "https://github.com/marinater/useCloudFSAmplify-Config#readme"
+}
